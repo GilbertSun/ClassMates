@@ -1,37 +1,3 @@
-* {
-    margin: 0;
-    padding: 0;
-}
-body {
-    font-family: "Merriweather", serif;
-    letter-spacing: 0.01rem;
-    font-size: 1.8rem;
-    line-height: 1.75em;
-    color: #3A4145;
-}
 .page-welcome {
     margin: auto;
-}
-
-.page-welcome .page-welcome__cover {
-    height: 300px;
-
-    background: url(/asset/img/group_photo.jpg) no-repeat bottom center;
-    background-size: cover;
-}
-
-@media screen and (min-width: 800px){
-    .page-welcome .page-welcome__cover {
-        background-position-y: 80%;
-    }
-}
-@media screen and (min-width: 1300px){
-    .page-welcome .page-welcome__cover {
-        height: 400px;
-    }
-}
-@media screen and (min-width: 1600px){
-    .page-welcome .page-welcome__cover {
-        height: 500px;
-    }
 }
