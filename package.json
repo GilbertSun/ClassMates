@@ -1,0 +1,24 @@
+{
+  "name": "classmates",
+  "version": "0.1.0",
+  "description": "a webapp for my classmates",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GilbertSun/ClassMates.git"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "webpack"
+  ],
+  "author": "GilbertSun <szb4321@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GilbertSun/ClassMates/issues"
+  },
+  "homepage": "https://github.com/GilbertSun/ClassMates"
+}
