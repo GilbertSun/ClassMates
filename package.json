@@ -2,8 +2,9 @@
   "name": "classmates",
   "version": "0.1.0",
   "description": "a webapp for my classmates",
-  "main": "entry.js",
+  "main": "index.js",
   "scripts": {
+    "start": "nodemon",
     "test": "npm test"
   },
   "repository": {
